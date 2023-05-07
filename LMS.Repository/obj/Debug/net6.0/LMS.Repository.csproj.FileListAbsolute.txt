@@ -1,0 +1,76 @@
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.deps.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfo.cs
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CopyComplete
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\refint\LMS.Repository.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\ref\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.deps.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfo.cs
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CopyComplete
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\refint\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\ref\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.deps.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfo.cs
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CopyComplete
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\refint\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\ref\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.deps.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Repository.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\Base.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\bin\Debug\net6.0\LMS.Models.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.csproj.CopyComplete
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\refint\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\LMS.Repository.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.Repository\obj\Debug\net6.0\ref\LMS.Repository.dll

@@ -1,0 +1,303 @@
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.exe
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.deps.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.runtimeconfig.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Humanizer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfo.cs
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.LMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LMSApi.props
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMSApi.props
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMSApi.props
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\scopedcss\bundle\LMSApi.styles.css
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CopyComplete
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\refint\LMSApi.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.genruntimeconfig.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\obj\Debug\net6.0\ref\LMSApi.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.Development.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.exe
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.deps.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.runtimeconfig.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Humanizer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfo.cs
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cs
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\scopedcss\bundle\LMSApi.styles.css
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CopyComplete
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\refint\LMSApi.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.genruntimeconfig.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\ref\LMSApi.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.exe
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.deps.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.runtimeconfig.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Humanizer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfo.cs
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.LMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LMSApi.props
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMSApi.props
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMSApi.props
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\scopedcss\bundle\LMSApi.styles.css
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CopyComplete
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\refint\LMSApi.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.genruntimeconfig.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\ref\LMSApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.Development.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\appsettings.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.exe
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.deps.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.runtimeconfig.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMSApi.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Humanizer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.IoCContainer.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Base.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.BLL.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Models.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\LMS.Repository.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cs
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.MvcApplicationPartsAssemblyInfo.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\scopedcss\bundle\LMSApi.styles.css
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.csproj.CopyComplete
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\refint\LMSApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\LMSApi.genruntimeconfig.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\obj\Debug\net6.0\ref\LMSApi.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMSApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll

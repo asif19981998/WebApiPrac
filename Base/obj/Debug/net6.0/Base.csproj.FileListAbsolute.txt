@@ -1,0 +1,60 @@
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\bin\Debug\net6.0\Base.deps.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CopyComplete
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\refint\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\Base\obj\Debug\net6.0\ref\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.deps.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CopyComplete
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\refint\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\ref\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.deps.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CopyComplete
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\refint\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\ref\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.deps.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\Base.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\bin\Debug\net6.0\LMS.Models.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.csproj.CopyComplete
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\refint\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\Base.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\Base\obj\Debug\net6.0\ref\Base.dll

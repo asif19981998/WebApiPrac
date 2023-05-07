@@ -1,0 +1,92 @@
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.deps.json
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfo.cs
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CopyComplete
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\refint\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Interview Project\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\ref\LMS.IoCContainer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.deps.json
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfo.cs
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CopyComplete
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\refint\LMS.IoCContainer.dll
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.pdb
+E:\C Sharp Practise Projects\BlazorandApi\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\ref\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.deps.json
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.AssemblyReference.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfoInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfo.cs
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CoreCompileInputs.cache
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CopyComplete
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\refint\LMS.IoCContainer.dll
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.pdb
+F:\Rakib\Personal Project\Prac Project New\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\ref\LMS.IoCContainer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.deps.json
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.IoCContainer.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.BLL.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\Base.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.DbContext.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Models.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\bin\Debug\net6.0\LMS.Repository.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.csproj.CopyComplete
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\refint\LMS.IoCContainer.dll
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\LMS.IoCContainer.pdb
+E:\New Work Folder 28_03_2023\blazorandapi\Api\LMSApi\LMS.IoCContainer\obj\Debug\net6.0\ref\LMS.IoCContainer.dll
