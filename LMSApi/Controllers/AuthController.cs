@@ -6,6 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using LMSApi.Models;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.Extensions.Options;
+using System.Text;
+using System.Net;
+using Microsoft.AspNetCore.WebUtilities;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -18,23 +23,20 @@ namespace LMSApi.Controllers
         private UserManager<ApplicationIdentityUser> _userManager;
         private SignInManager<ApplicationIdentityUser> _signInManager;
         private readonly IAuthenticationSchemeProvider _authenticationSchemeProvider;
-
-        public AuthController(UserManager<ApplicationIdentityUser> userManager, SignInManager<ApplicationIdentityUser> signInManager, IAuthenticationSchemeProvider authenticationSchemeProvider)
+        private readonly IOptions<GoogleOptions> _googleOptions;
+        public AuthController(UserManager<ApplicationIdentityUser> userManager, SignInManager<ApplicationIdentityUser> signInManager,
+            IAuthenticationSchemeProvider authenticationSchemeProvider, IOptions<GoogleOptions> googleOptions)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _authenticationSchemeProvider = authenticationSchemeProvider;
+            _googleOptions = googleOptions;
         }
         // GET: api/<AuthController>
         [HttpPost("Register")]
         public async Task<IActionResult> Register(Register model)
         {
 
-            //Test Code For Google Authetication
-            var schemes = await _authenticationSchemeProvider.GetAllSchemesAsync();
-
-            // Filter out the schemes that are not external providers
-            var externalSchemes = schemes.Where(s => !string.IsNullOrEmpty(s.DisplayName));
            
             if (!ModelState.IsValid)
             {
@@ -55,6 +57,20 @@ namespace LMSApi.Controllers
             }
 
             return Ok();
+        }
+
+        public async Task<IActionResult> GoogleResponse()
+        {
+            var result = await HttpContext.AuthenticateAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            var claims = result.Principal.Identities
+                .FirstOrDefault().Claims.Select(claim => new
+                {
+                    claim.Issuer,
+                    claim.OriginalIssuer,
+                    claim.Type,
+                    claim.Value
+                });
+            return Ok(claims);
         }
 
         [HttpPost("Login")]
@@ -104,13 +120,12 @@ namespace LMSApi.Controllers
         }
         // GET api/<AuthController>/5
         [HttpGet("GetCookie")]
-        public List<Customer> Get(int id)
+        public async Task Get()
         {
-            //Response.Cookies.Append("name", "rakib", new CookieOptions
-            //{
-            //    HttpOnly = true
-            //});
-
+            await HttpContext.ChallengeAsync(GoogleDefaults.AuthenticationScheme, new AuthenticationProperties()
+            {
+                RedirectUri = "http://localhost:7003/api/auth/GoogleResponse"
+            });
             List<Customer> customers = new List<Customer> 
             { 
                 new Customer() {Id=1,Name="Sakib",Code="123258"},
@@ -119,7 +134,7 @@ namespace LMSApi.Controllers
 
             };
 
-            return customers;
+            //return customers;
         }
 
         // POST api/<AuthController>

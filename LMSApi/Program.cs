@@ -2,6 +2,7 @@ using LMS.IoCContainer;
 using LMS.Models.Auth;
 using LMSApi;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 //using Microsoft.AspNetCore.Authentication.Google;
@@ -28,7 +29,20 @@ builder.Services.Configure<CookiePolicyOptions>(options =>
 builder.Services.AddAuthentication(
     CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie();
-builder.Services.AddAuthentication().AddGoogle(options =>
+//builder.Services.AddAuthentication().AddGoogle(options =>
+//{
+//    options.ClientId = "275767469911-2o7jsgev5fvp3kes6ff16uunbjgkh8bq.apps.googleusercontent.com";
+//    options.ClientSecret = "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";
+//});
+
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = GoogleDefaults.AuthenticationScheme;
+})
+
+.AddGoogle(options =>
 {
     options.ClientId = "275767469911-2o7jsgev5fvp3kes6ff16uunbjgkh8bq.apps.googleusercontent.com";
     options.ClientSecret = "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";
